@@ -4,11 +4,32 @@
   
     
     <entry>
-      <title>基于「Butterfly」主题的外挂标签引入</title>
-      <link href="/posts/1ff040f0.html"/>
-      <url>/posts/1ff040f0.html</url>
+      <title>上标标签 tip</title>
+      <link href="/posts/35afea00.html"/>
+      <url>/posts/35afea00.html</url>
       
-        <content type="html"><![CDATA[<h1 id="格式"><a href="#格式" class="headerlink" title="格式"></a>格式</h1><h2 id="format"><a href="#format" class="headerlink" title="format"></a>format</h2><div class="tip [参数，可选]"><p>文本内容</p></div><div class="tip "><p>default</p></div><div class="tip info"><p>info</p></div><div class="tip success"><p>success</p></div><div class="tip error"><p>error</p></div><div class="tip warning"><p>warning</p></div><div class="tip bolt"><p>bolt</p></div><div class="tip ban"><p>ban</p></div><div class="tip home"><p>home</p></div><div class="tip sync"><p>sync</p></div><div class="tip cogs"><p>cogs</p></div><div class="tip key"><p>key</p></div><div class="tip bell"><p>bell</p></div><div class="tip fa-atom"><p>自定义font awesome图标</p></div><div class="tip bell"><p>P.S.bell</p></div><h2 id="本文转载自akilar"><a href="#本文转载自akilar" class="headerlink" title="本文转载自akilar"></a>本文转载自akilar</h2>]]></content>
+        <content type="html"><![CDATA[<div class="tabs" id="up_tip"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="up_tip-1">语法格式</button><button type="button" class="tab " data-href="up_tip-2">样式预览</button><button type="button" class="tab " data-href="up_tip-3">举例源码</button></ul><div class="tab-contents"><div class="tab-item-content active" id="up_tip-1"><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#123;% tip [参数，可选] %&#125;文本内容&#123;% endtip %&#125;</span><br></pre></td></tr></table></figure></div><div class="tab-item-content" id="up_tip-2"><div class="tip "><p>default</p></div><div class="tip info"><p>info</p></div><div class="tip success"><p>success</p></div><div class="tip error"><p>error</p></div><div class="tip warning"><p>warning</p></div><div class="tip bolt"><p>bolt</p></div><div class="tip ban"><p>ban</p></div><div class="tip home"><p>home</p></div><div class="tip sync"><p>sync</p></div><div class="tip cogs"><p>cogs</p></div><div class="tip key"><p>key</p></div><div class="tip bell"><p>bell</p></div><div class="tip fa-atom"><p>自定义font awesome图标</p></div></div><div class="tab-item-content" id="up_tip-3"><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">&#123;% tip %&#125;default&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip info %&#125;info&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip success %&#125;success&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip error %&#125;error&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip warning %&#125;warning&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip bolt %&#125;bolt&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip ban %&#125;ban&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip home %&#125;home&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip sync %&#125;sync&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip cogs %&#125;cogs&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip key %&#125;key&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip bell %&#125;bell&#123;% endtip %&#125;</span><br><span class="line">&#123;% tip fa-atom %&#125;自定义font awesome图标&#123;% endtip %&#125;</span><br></pre></td></tr></table></figure></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div><h1 id="本文转载自akilar大佬-・ω・"><a href="#本文转载自akilar大佬-・ω・" class="headerlink" title="本文转载自akilar大佬(=・ω・=)"></a><strong>本文转载自akilar大佬</strong><font face=黑体>(=・ω・=)</font></h1>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 技术 </tag>
+            
+            <tag> 外挂标签 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>建站公告</title>
+      <link href="/posts/6f91a4f7.html"/>
+      <url>/posts/6f91a4f7.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="本站在2024-08-12-正！式！建！站！啦！-°▽°-八-°▽°-♪"><a href="#本站在2024-08-12-正！式！建！站！啦！-°▽°-八-°▽°-♪" class="headerlink" title="本站在2024/08/12 正！式！建！站！啦！(°▽°)八(°▽°)♪"></a>本站在2024/08/12 正！式！建！站！啦！<font face=黑体>(<em>°▽°</em>)八(<em>°▽°</em>)♪</font></h2><div class="timeline blue]"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>项目历程[</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2024/08/09</p></div></div><div class='timeline-item-content'><p>在逛小破站时发现可以<span class="bubble-content">通过Hexo+Github </span><span class="bubble-notation"><span class="bubble-item" style="background-color:#39c5bb;"> 其实是因为可以白嫖（闪 </span>&lt;/span&gt;来构建一个属于自己的Blog<br>项目正式立项，可喜可贺可喜可贺<font face=黑体>✿ヽ(°▽°)ノ✿</font><br>至此，一锤定音<br>尘埃，已然落定（逃</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2024/08/10</p></div></div><div class='timeline-item-content'><p>在翻hexo主题时看见了「Kratos-Rebirth」，<span class="bubble-content">于是就选择了「Kratos-Rebirth </span><span class="bubble-notation"><span class="bubble-item" style="background-color:#39c5bb;"> 没办法它实在是太二次元了（摊手 </span>&lt;/span&gt;</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2024/08/11</p></div></div><div class='timeline-item-content'><p>在不断的修bug后可算得到的一个能看的Blog，直到我看到的anzhiyu大佬的魔改「Butterfly」，手里的Blog瞬间就不香了<br>Butterfly 启动！</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2024/08/12</p></div></div><div class='timeline-item-content'><p><span class="bubble-content">在对着视频捯饬了几天后 </span><span class="bubble-notation"><span class="bubble-item" style="background-color:#39c5bb;"> 还删掉了很多的功能组件（ </span>&lt;/span&gt;，可算憋出来了（欣慰<br>Miku’s Blog 堂堂完结</p></div></div></div><div class="img-wrap"><div class="img-bg"><img class="img" src="https://pic.imgdb.cn/item/66b4d64ed9c307b7e94ec1c1.gif ,alt=完结撒花(・ω< )★"/></div></div>]]></content>
       
       
       
