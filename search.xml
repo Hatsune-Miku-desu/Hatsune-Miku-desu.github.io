@@ -4,6 +4,52 @@
   
     
     <entry>
+      <title>第一节：自动停车与岔道变轨——从0开始的MC铁路客运系统</title>
+      <link href="/posts/3fbe9329.html"/>
+      <url>/posts/3fbe9329.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 从0开始的MC铁路客运系统——基于原版1.21Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Minecraft </tag>
+            
+            <tag> 生电 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>哼哼哼，啊啊啊啊啊</title>
+      <link href="/posts/6763ca58.html"/>
+      <url>/posts/6763ca58.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>幂次方</title>
       <link href="/posts/f84c9893.html"/>
       <url>/posts/f84c9893.html</url>
@@ -134,6 +180,17 @@
       <url>/manifest.json</url>
       
         <content type="html"><![CDATA[{"name":"Miku's Blog","short_name":"Miku's blog (=・ω・=)","theme_color":"#66ccff","background_color":"#66ccff","display":"standalone","scope":"/","start_url":"/","icons":[{"src":"/img/siteicon/16.png","sizes":"16x16","type":"image/png"},{"src":"/img/siteicon/32.png","sizes":"32x32","type":"image/png"},{"src":"/img/siteicon/48.png","sizes":"48x48","type":"image/png"},{"src":"/img/siteicon/64.png","sizes":"64x64","type":"image/png"},{"src":"/img/siteicon/128.png","sizes":"128x128","type":"image/png"},{"src":"/img/siteicon/144.png","sizes":"144x144","type":"image/png"},{"src":"/img/siteicon/512.png","sizes":"512x512","type":"image/png"}],"splash_pages":null}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
