@@ -8,7 +8,7 @@
       <link href="/posts/3fbe9329.html"/>
       <url>/posts/3fbe9329.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="Part-01-自动停车"><a href="#Part-01-自动停车" class="headerlink" title="Part 01 自动停车"></a>Part 01 自动停车</h1><p><img src="https://pic.imgdb.cn/item/66d44760d9c307b7e974ccec.png" alt="图一：计时器"></p><p><img src="https://pic.imgdb.cn/item/66d4475fd9c307b7e974cc4a.png" alt="图二：停车的方式"></p><h2 id="原理"><a href="#原理" class="headerlink" title="原理"></a>原理</h2><h3 id="计时器"><a href="#计时器" class="headerlink" title="计时器"></a>计时器</h3><p>如上图，通过两个漏斗互漏来实现。由于有红石火把作为强输入，所以左侧粘性活塞保持推的状态，同时右侧漏斗便被红石块<del>硬控</del>锁住，当矿车运行到探测铁轨，探测铁轨下的红石激活，红石火把熄灭，开始计时。</p><h3 id="停车"><a href="#停车" class="headerlink" title="停车"></a>停车</h3><p>如下图，</p><p>1.蓝色方块下的粘性活塞被激活，堵住前方<br>2.(1)矿车经过C，激活红石<br>·· (2)粘性活塞B旁的红石火把被熄灭,将铁轨右移<br>·· (3)粘性活塞A被激活，白色混凝土右移，堵住后路<br>3.当矿车运行到D时，复位</p><h1 id="Part-02-岔道变轨"><a href="#Part-02-岔道变轨" class="headerlink" title="Part 02 岔道变轨"></a>Part 02 岔道变轨</h1><p><img src="https://pic.imgdb.cn/item/66d43dc0d9c307b7e96572c9.png" alt=""></p><p><img src="https://pic.imgdb.cn/item/66d4475fd9c307b7e974cbb4.png" alt=""></p><h2 id="获取标签"><a href="#获取标签" class="headerlink" title="获取标签"></a>获取标签</h2><p>1.如上图，利用漏斗堆叠物品的特性，判断箱子矿车是否含有指定物品，若有，则漏到下方漏斗<br>2.通过比较器检测漏斗物品变化，若有，输出红石信号，控制活塞变轨<br>3.将物品通过瞬投链归还<br>4.在矿车运行至A是将变轨器复位  </p><p><img src="https://pic.imgdb.cn/item/66d46b1fd9c307b7e9aad290.gif" alt=""></p>]]></content>
       
       
       <categories>
@@ -35,7 +35,7 @@
       <link href="/posts/6763ca58.html"/>
       <url>/posts/6763ca58.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>终究还是要开学了啊（悲</p><p>再看向一旁的暑假作业，一息九百万匹强如怪物，怎能战胜的了口牙！！！</p><p>此处应有《开心高兴歌》</p><div class="tag link"><a class="link-card" title="开心高兴歌" href="https://www.bilibili.com/video/BV1Xe411F7bq"><div class="left"><img src="/img/siteicon/64.png"/></div><div class="right"><p class="text">开心高兴歌</p><p class="url">https://www.bilibili.com/video/BV1Xe411F7bq</p></div></a></div><p>好开心🤐</p><p>今天是最快乐😶的一天</p><p>有活力😔</p><p>想起很多美好😭的事情</p><p>继续努力😩</p><p>所有的愿望都会实现充满期待😐</p><p>还会有更美好的明天😈😈</p><p>好快乐😑好开心😟</p><p>好幸福😕好高兴😫真高兴☹️</p><p>真快乐🤐</p><p>真开心😶</p><p>好高兴🤥</p><p>说不清楚但就是高兴😵</p>]]></content>
       
       
       
